@@ -1,7 +1,7 @@
 # UKBB_Analytics
 **SOCR UK Biobank Data Analytics (Mental health and mood disorders)**
 
-This [SOCR](http://socr.umich.edu/) [GitHUb](https://github.com/SOCR) partition include the end-to-end computational protocol, results, 
+This [SOCR](http://socr.umich.edu/) [GitHUb](https://github.com/SOCR) partition includes the end-to-end computational protocol, results, 
 validation and scripts supporting a Big Data discovery study involving the [UK Biobank data](http://www.ukbiobank.ac.uk).
 
 
@@ -23,7 +23,7 @@ contributed to the unsupervised clustering. The main outcome is a clinical decis
 
 
 # Usage
-In the spirit of [open science](https://en.wikipedia.org/wiki/Open_science) and in accordance with the [SOCR Licensing}(http://socr.umich.edu/html/SOCR_CitingLicense.html), all materials here are [CC-BY](https://creativecommons.org/licenses/) and [LGPL](https://opensource.org/licenses/lgpl-license) licensed.
+In the spirit of [open science](https://en.wikipedia.org/wiki/Open_science) and in accordance with the [SOCR Licensing](http://socr.umich.edu/html/SOCR_CitingLicense.html), all materials here are [CC-BY](https://creativecommons.org/licenses/) and [LGPL](https://opensource.org/licenses/lgpl-license) licensed.
 
 
 # Reference
