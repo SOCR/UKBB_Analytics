@@ -25,6 +25,9 @@ contributed to the unsupervised clustering. The main outcome is a clinical decis
 # Usage
 In the spirit of [open science](https://en.wikipedia.org/wiki/Open_science) and in accordance with the [SOCR Licensing](http://socr.umich.edu/html/SOCR_CitingLicense.html), all materials here are [CC-BY](https://creativecommons.org/licenses/) and [LGPL](https://opensource.org/licenses/lgpl-license) licensed.
 
+# Contact
+[SOCR Personnel](http://www.socr.umich.edu/people/).
+
 
 # Reference
 * Zhou, Y, Zhao, l, Zhou, N, Zhao, Y, Marino, S, Wang, T, Sun, H, Toga, AW, [Dinov, ID](http://www.socr.umich.edu/people/dinov/).  (2019) *Predictive Big Data Analytics using the UK Biobank Data*, 
