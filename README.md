@@ -33,9 +33,9 @@ contributed to the unsupervised clustering. The main outcome is a clinical decis
 Resources
 =========
 
-* All **data** used in this study is openly and publicly available from the [UK Biobank data](http://www.ukbiobank.ac.uk). Access requires appropriate.
-* The **code directory** contains the complete collection of R scripts used to preprocess, model, visualize, interrogate and understand the data.
-* The **results** folder includes some of the derived measures and result summaries.
+* All [data](https://github.com/SOCR/UKBB_Analytics/tree/master/data) used in this study is openly and publicly available from the [UK Biobank data](http://www.ukbiobank.ac.uk). Access requires [registration and signing of an appropriate data use agreement](http://www.ukbiobank.ac.uk/using-the-resource/).
+* The [code directory](https://github.com/SOCR/UKBB_Analytics/tree/master/code) contains the complete collection of R scripts used to preprocess, model, visualize, interrogate and understand the data.
+* The [results](https://github.com/SOCR/UKBB_Analytics/tree/master/results) folder includes some of the derived measures and result summaries.
 
 
 Usage
