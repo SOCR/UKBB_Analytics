@@ -32,34 +32,6 @@ feature <- data.train[,3299:ncol(data.train)]
 
 ##################################################################################
 ######################### hierarchical clustering ################################
-# Compute hierarchical clustering method in hclust (complete, average, single, ward.D)
-# biomarker.hc.ward <- scaled.biomarker %>%
-#   scale() %>%                    # Scale the data
-#   dist(method = "euclidean") %>% # Compute dissimilarity matrix
-#   hclust(method = "ward.D2")     # Compute hierachical clustering
-# biomarker.hc.comp <- scaled.biomarker %>%
-#   scale() %>%                    # Scale the data
-#   dist(method = "euclidean") %>% # Compute dissimilarity matrix
-#   hclust(method = "complete")     # Compute hierachical clustering
-# biomarker.hc.sing <- scaled.biomarker %>%
-#   scale() %>%                    # Scale the data
-#   dist(method = "euclidean") %>% # Compute dissimilarity matrix
-#   hclust(method = "single")     # Compute hierachical clustering
-# biomarker.hc.aver <- scaled.biomarker %>%
-#   scale() %>%                    # Scale the data
-#   dist(method = "euclidean") %>% # Compute dissimilarity matrix
-#   hclust(method = "average")     # Compute hierachical clustering
-# 
-# # visualize the hierarchical clustering
-# pdf("hierarchical_clustering_ward.pdf")
-# plot(biomarker.hc.ward)
-# pdf("hierarchical_clustering_comp.pdf")
-# plot(biomarker.hc.comp)
-# pdf("hierarchical_clustering_sing.pdf")
-# plot(biomarker.hc.sing)
-# pdf("hierarchical_clustering_aver.pdf")
-# plot(biomarker.hc.aver)
-# dev.off()
 
 m <- c( "average", "single", "complete", "ward")
 names(m) <- c( "average", "single", "complete", "ward")
