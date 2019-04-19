@@ -51,5 +51,5 @@ Contact
 
 References
 ==========
-* Zhou, Y, Zhao, l, Zhou, N, Zhao, Y, Marino, S, Wang, T, Sun, H, Toga, AW, [Dinov, ID](http://www.socr.umich.edu/people/dinov/).  (2019) *Predictive Big Data Analytics using the UK Biobank Data*, 
-[Scientific Reports](https://www.nature.com/srep/), *in press*, [DOI : 10.1038/s41598-019-41634-y](http://doi.org/10.1038/s41598-019-41634-y).
+* Zhou, Y, Zhao, l, Zhou, N, Zhao, Y, Marino, S, Wang, T, Sun, H, Toga, AW, [Dinov, ID](http://www.socr.umich.edu/people/dinov/).  (2019) [Predictive Big Data Analytics using the UK Biobank Data](https://www.nature.com/articles/s41598-019-41634-y), 
+[Scientific Reports](https://www.nature.com/srep/), 9(1): 6012, [DOI : 10.1038/s41598-019-41634-y](http://doi.org/10.1038/s41598-019-41634-y).
