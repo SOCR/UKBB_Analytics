@@ -1,4 +1,7 @@
 # UKBB_Analytics
+
+<a href="https://www.nature.com/articles/s41598-019-41634-y"><img align="right" width="200" height="500" src="https://raw.githubusercontent.com/SOCR/UKBB_Analytics/master/results/SOCR_UKBB_SRep_2019.jpg"></a>
+
 **SOCR UK Biobank Data Analytics (Mental health and mood disorders)**
 
 This [SOCR](http://socr.umich.edu/) [GitHub](https://github.com/SOCR) partition includes the end-to-end computational protocol, results, 
